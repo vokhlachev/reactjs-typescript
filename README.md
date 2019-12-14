@@ -13,6 +13,10 @@
 <br />
 This is small project with React JS and Typescript.
 
+### Built with:
+* [CREATE REACT APP DEV](https://create-react-app.dev/docs/adding-typescript/)
+* [MATERIALIZE CSS](https://materializecss.com/getting-started.html)
+
 ### Installation
 
 1. Clone the repo or download it into your local machine
